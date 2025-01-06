@@ -1,0 +1,24 @@
+{
+  "name": "slhq-core-line",
+  "version": "1.0.0",
+  "description": "Icon Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johanna Fagerås",
+  "license": "MIT",
+  "homepage": "https://github.com/johanna-fageras/slhq-core-line#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johanna-fageras/slhq-core-line.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johanna-fageras/slhq-core-line/issues"
+  },
+  "keywords": [
+    "icons",
+    "svg",
+    "react"
+  ]
+}
